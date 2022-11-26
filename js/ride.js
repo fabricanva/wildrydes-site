@@ -24,8 +24,8 @@ WildRydes.map = WildRydes.map || {};
             },
             data: JSON.stringify({
                 PickupLocation: {
-                    Latitude: pickupLocation.latitude,
-                    Longitude: pickupLocation.longitude
+                    Latitude:  -68.1500000,
+                    Longitude: -16.5000000
                 }
             }),
             contentType: 'application/json',
